@@ -1,0 +1,11 @@
+2024-11-09 00:55:13.239 [info] 
+
+
+
+
+2024-11-09 00:55:13.239 [info] Extension host agent started.
+2024-11-09 00:55:13.241 [info] Started initializing default profile extensions in extensions installation folder. file:///home/itsupport/.codeoss/extensions
+2024-11-09 00:55:13.260 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/itsupport/.codeoss/extensions
+2024-11-09 00:55:45.882 [info] [127.0.0.1][ccdf6816][ManagementConnection] New connection established.
+2024-11-09 00:55:46.232 [info] [127.0.0.1][c8f9ac20][ExtensionHostConnection] New connection established.
+2024-11-09 00:55:48.389 [info] [127.0.0.1][c8f9ac20][ExtensionHostConnection] <1201> Launched Extension Host Process.
